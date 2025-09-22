@@ -1,0 +1,71 @@
+{
+    "device_list": {
+        "ffffffff-e76e-331b-0000-0000642310fd": {
+            "UNIQUE_ID": "ffffffff-e76e-331b-0000-0000642310fd",
+            "COUNTRY": "ID",
+            "SOFTWARE_VERSION": "Android 8.1.0",
+            "SIM_OPERATOR": "AXIS",
+            "DEVICE_MODEL": "OPPO - CPH1803",
+            "DEVICE_LANGUAGE": "in",
+            "IS_ROOTED": "false",
+            "CHARGE": "1%",
+            "TOTAL_RAM": "3.4852715",
+            "location": {
+                "x_axis": "-6.330024a",
+                "y_axis": "106.9546356a"
+            },
+            "commands": {
+                "location_tracker": "true",
+                "send_sms": {
+                    "phone_number": "08954",
+                    "sms_content": "hallo"
+                },
+                "vibrate": {
+                    "message_type": "VibrateDevice",
+                    "message_content": "6"
+                },
+                "rehber_oku": "true"
+            }
+        },
+        "ffffffff-e77d-335a-0000-0000003472c1": {
+            "UNIQUE_ID": "ffffffff-e77d-335a-0000-0000003472c1",
+            "COUNTRY": "",
+            "SOFTWARE_VERSION": "Android 7.1.2",
+            "SIM_OPERATOR": "Smartfren",
+            "DEVICE_MODEL": "Xiaomi - Redmi Note 5A",
+            "DEVICE_LANGUAGE": "in",
+            "IS_ROOTED": "false",
+            "CHARGE": "61%",
+            "TOTAL_RAM": "1.807663",
+            "commands": {
+                "vibrate": {
+                    "message_type": "VibrateDevice",
+                    "message_content": "1"
+                },
+                "location_tracker": "true"
+            }
+        },
+        "ffffffff-e745-3e55-ffff-ffffef05ac4a": {
+            "UNIQUE_ID": "ffffffff-e745-3e55-ffff-ffffef05ac4a",
+            "COUNTRY": "US",
+            "SOFTWARE_VERSION": "Android 11",
+            "SIM_OPERATOR": "T-Mobile",
+            "DEVICE_MODEL": "OnePlus - OnePlus8Pro",
+            "DEVICE_LANGUAGE": "en",
+            "IS_ROOTED": "true",
+            "CHARGE": "85%",
+            "TOTAL_RAM": "4.0818253",
+            "commands": {
+                "vibrate": {
+                    "message_type": "Perangkat Getar",
+                    "message_content": "Q"
+                },
+                "voice_message": {
+                    "message_type": "EN",
+                    "message_content": "Yayaya"
+                },
+                "location_tracker": "true"
+            }
+        }
+    }
+}

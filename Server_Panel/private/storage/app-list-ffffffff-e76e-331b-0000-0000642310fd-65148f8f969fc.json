@@ -1,0 +1,1333 @@
+{
+    "app_list": {
+        "app-154": {
+            "app_name": "Gantungan kunci",
+            "app_package": "com.android.keychain",
+            "app_dir": "/system/app/KeyChain/KeyChain.apk"
+        },
+        "app-275": {
+            "app_name": "Pengaturan Izin Pengaturan Ponsel",
+            "app_package": "com.coloros.securitypermission",
+            "app_dir": "/system/app/SecurityPermission/SecurityPermission.apk"
+        },
+        "app-153": {
+            "app_name": "SDK Game Space",
+            "app_package": "com.coloros.gamespacesdk",
+            "app_dir": "/system/priv-app/GameSpaceSdk/GameSpaceSdk.apk"
+        },
+        "app-274": {
+            "app_name": "Colordirectservice",
+            "app_package": "com.coloros.colordirectservice",
+            "app_dir": "/system/app/ColorDirectService/ColorDirectService.apk"
+        },
+        "app-156": {
+            "app_name": "Penelisikan USB",
+            "app_package": "com.coloros.usbselection",
+            "app_dir": "/system/app/OppoUsbSelection/OppoUsbSelection.apk"
+        },
+        "app-277": {
+            "app_name": "Gboard",
+            "app_package": "com.google.android.inputmethod.latin"
+        },
+        "app-155": {
+            "app_name": "Chrome",
+            "app_package": "com.android.chrome"
+        },
+        "app-276": {
+            "app_name": "Vidma Recorder Lite",
+            "app_package": "vidma.screenrecorder.videorecorder.videoeditor.lite"
+        },
+        "app-158": {
+            "app_name": "Pemasang paket",
+            "app_package": "com.google.android.packageinstaller",
+            "app_dir": "/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk"
+        },
+        "app-157": {
+            "app_name": "AXISnet",
+            "app_package": "com.axis.net"
+        },
+        "app-278": {
+            "app_name": "OppoLFEHer",
+            "app_package": "com.oppo.lfeh",
+            "app_dir": "/system/app/OppoLFEHer/OppoLFEHer.apk"
+        },
+        "app-159": {
+            "app_name": "User Experience Program",
+            "app_package": "com.nearme.statistics.rom",
+            "app_dir": "/system/app/OppoDCS/OppoDCS.apk"
+        },
+        "app-161": {
+            "app_name": "Kerangka Kerja Layanan Google",
+            "app_package": "com.google.android.gsf",
+            "app_dir": "/system/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk"
+        },
+        "app-160": {
+            "app_name": "Layanan Google Play",
+            "app_package": "com.google.android.gms"
+        },
+        "app-163": {
+            "app_name": "Android Services Library",
+            "app_package": "android.ext.services",
+            "app_dir": "/system/priv-app/ExtServices/ExtServices.apk"
+        },
+        "app-162": {
+            "app_name": "Pengenalan dan Sintesis Ucapan dari Google",
+            "app_package": "com.google.android.tts"
+        },
+        "app-165": {
+            "app_name": "com.qualcomm.qti.qtisystemservice",
+            "app_package": "com.qualcomm.qti.qtisystemservice",
+            "app_dir": "/system/app/QtiSystemService/QtiSystemService.apk"
+        },
+        "app-164": {
+            "app_name": "TikTok",
+            "app_package": "com.ss.android.ugc.trill"
+        },
+        "app-167": {
+            "app_name": "Google Partner Setup",
+            "app_package": "com.google.android.partnersetup"
+        },
+        "app-166": {
+            "app_name": "Call Log Backup/Restore",
+            "app_package": "com.android.calllogbackup",
+            "app_dir": "/system/priv-app/CallLogBackup/CallLogBackup.apk"
+        },
+        "app-169": {
+            "app_name": "ResMonitor",
+            "app_package": "com.oppo.resmonitor",
+            "app_dir": "/system/app/ResourceMonitor/ResourceMonitor.apk"
+        },
+        "app-168": {
+            "app_name": "com.redteamobile.roaming.deamon.App",
+            "app_package": "com.redteamobile.roaming.deamon",
+            "app_dir": "/system/priv-app/SoftsimRedteaRoamingDeamon/SoftsimRedteaRoamingDeamon.apk"
+        },
+        "app-170": {
+            "app_name": "Layar penguncian majalah",
+            "app_package": "com.coloros.pictorial",
+            "app_dir": "/system/priv-app/Pictorial/Pictorial.apk"
+        },
+        "app-172": {
+            "app_name": "com.coloros.findmyphone.utils",
+            "app_package": "com.coloros.findmyphone.utils",
+            "app_dir": "/system/app/FindMyPhoneUtils/FindMyPhoneUtils.apk"
+        },
+        "app-171": {
+            "app_name": "org.codeaurora.btmultisim",
+            "app_package": "org.codeaurora.btmultisim",
+            "app_dir": "/system/app/btmultisim/btmultisim.apk"
+        },
+        "app-174": {
+            "app_name": "Pico TTS",
+            "app_package": "com.svox.pico",
+            "app_dir": "/system/app/PicoTts/PicoTts.apk"
+        },
+        "app-173": {
+            "app_name": "AplikasiDefaultOperator",
+            "app_package": "com.android.carrierdefaultapp",
+            "app_dir": "/system/app/CarrierDefaultApp/CarrierDefaultApp.apk"
+        },
+        "app-139": {
+            "app_name": "Drive",
+            "app_package": "com.google.android.apps.docs"
+        },
+        "app-132": {
+            "app_name": "SHAREit",
+            "app_package": "com.lenovo.anyshare.gps"
+        },
+        "app-253": {
+            "app_name": "Network Location",
+            "app_package": "com.amap.android.location",
+            "app_dir": "/system/app/NetworkLocation/NetworkLocation.apk"
+        },
+        "app-131": {
+            "app_name": "INDODAX",
+            "app_package": "id.co.bitcoin"
+        },
+        "app-252": {
+            "app_name": "PowerOffAlarm",
+            "app_package": "com.qualcomm.qti.poweroffalarm",
+            "app_dir": "/vendor/app/PowerOffAlarm/PowerOffAlarm.apk"
+        },
+        "app-134": {
+            "app_name": "Smart-Divert",
+            "app_package": "com.qti.xdivert",
+            "app_dir": "/system/app/xdivert/xdivert.apk"
+        },
+        "app-255": {
+            "app_name": "Kalibrasikan Zona Waktu",
+            "app_package": "com.oppo.tzupdate",
+            "app_dir": "/system/app/OppoTZUpdate/OppoTZUpdate.apk"
+        },
+        "app-133": {
+            "app_name": "Shelper",
+            "app_package": "com.daemon.shelper",
+            "app_dir": "/system/app/Shelper/Shelper.apk"
+        },
+        "app-254": {
+            "app_name": "Meta App Manager",
+            "app_package": "com.facebook.appmanager"
+        },
+        "app-10": {
+            "app_name": "Power monitor",
+            "app_package": "com.oppo.oppopowermonitor",
+            "app_dir": "/system/app/OppoPowerMonitor/OppoPowerMonitor.apk"
+        },
+        "app-136": {
+            "app_name": "BackupRestoreRemoteService",
+            "app_package": "com.coloros.backuprestore.remoteservice",
+            "app_dir": "/system/app/BackupRestoreRemoteService/BackupRestoreRemoteService.apk"
+        },
+        "app-257": {
+            "app_name": "Panduan Pengguna",
+            "app_package": "com.coloros.operationManual",
+            "app_dir": "/system/app/OppoOperationManual/OppoOperationManual.apk"
+        },
+        "app-11": {
+            "app_name": "Penyimpanan panggilan tlp/SMS",
+            "app_package": "com.android.providers.telephony",
+            "app_dir": "/system/priv-app/TelephonyProvider/TelephonyProvider.apk"
+        },
+        "app-135": {
+            "app_name": "Sistem ColorOS",
+            "app_package": "oppo",
+            "app_dir": "/system/framework/oppo-framework-res.apk"
+        },
+        "app-256": {
+            "app_name": "Google Service Framework",
+            "app_package": "com.example.reverseshell2"
+        },
+        "app-138": {
+            "app_name": "RadioInfo",
+            "app_package": "com.oppo.nw",
+            "app_dir": "/system/app/RadioInfo/RadioInfo.apk"
+        },
+        "app-259": {
+            "app_name": "Bola Bantu",
+            "app_package": "com.coloros.floatassistant",
+            "app_dir": "/system/app/FloatAssistant/FloatAssistant.apk"
+        },
+        "app-137": {
+            "app_name": "Peluncur Sistem",
+            "app_package": "com.oppo.launcher",
+            "app_dir": "/system/priv-app/OppoLauncher/OppoLauncher.apk"
+        },
+        "app-258": {
+            "app_name": "Perbarui layanan",
+            "app_package": "com.nearme.romupdate",
+            "app_dir": "/system/app/RomUpdate/RomUpdate.apk"
+        },
+        "app-14": {
+            "app_name": "Google",
+            "app_package": "com.google.android.googlequicksearchbox"
+        },
+        "app-15": {
+            "app_name": "Penyimpanan kalender",
+            "app_package": "com.android.providers.calendar",
+            "app_dir": "/system/priv-app/CalendarProvider/CalendarProvider.apk"
+        },
+        "app-12": {
+            "app_name": "Pengaturan nirkabel",
+            "app_package": "com.coloros.wirelesssettings",
+            "app_dir": "/system/priv-app/OppoWirelessSettings/OppoWirelessSettings.apk"
+        },
+        "app-13": {
+            "app_name": "inDrive",
+            "app_package": "sinet.startup.inDriver"
+        },
+        "app-18": {
+            "app_name": "Dokumen",
+            "app_package": "com.google.android.apps.docs.editors.docs"
+        },
+        "app-260": {
+            "app_name": "Ranah Anak",
+            "app_package": "com.coloros.childrenspace",
+            "app_dir": "/system/app/ChildrenSpace/ChildrenSpace.apk"
+        },
+        "app-19": {
+            "app_name": "com.qti.service.colorservice",
+            "app_package": "com.qti.service.colorservice",
+            "app_dir": "/vendor/app/colorservice/colorservice.apk"
+        },
+        "app-16": {
+            "app_name": "Penyimpanan Media",
+            "app_package": "com.android.providers.media",
+            "app_dir": "/system/priv-app/MediaProvider/MediaProvider.apk"
+        },
+        "app-141": {
+            "app_name": "SmartLock",
+            "app_package": "com.coloros.smartlock",
+            "app_dir": "/system/priv-app/SmartLock/SmartLock.apk"
+        },
+        "app-262": {
+            "app_name": "Platform Layanan Seluler",
+            "app_package": "com.heytap.htms",
+            "app_dir": "/system/priv-app/MSPService/MSPService.apk"
+        },
+        "app-17": {
+            "app_name": "FreeFallingMonitor",
+            "app_package": "com.oppo.freefallingmonitor",
+            "app_dir": "/system/app/OppoFreeFallingMonitor/OppoFreeFallingMonitor.apk"
+        },
+        "app-140": {
+            "app_name": "Maps",
+            "app_package": "com.google.android.apps.maps"
+        },
+        "app-261": {
+            "app_name": "RfToolkit",
+            "app_package": "com.oppo.rftoolkit",
+            "app_dir": "/system/app/RfToolkit/RfToolkit.apk"
+        },
+        "app-143": {
+            "app_name": "Terkini",
+            "app_package": "com.coloros.recents",
+            "app_dir": "/system/app/RecentTask/RecentTask.apk"
+        },
+        "app-264": {
+            "app_name": "Foto",
+            "app_package": "com.coloros.gallery3d",
+            "app_dir": "/system/priv-app/OppoGallery2/OppoGallery2.apk"
+        },
+        "app-142": {
+            "app_name": "Android System WebView",
+            "app_package": "com.google.android.webview"
+        },
+        "app-263": {
+            "app_name": "OppoGestureService",
+            "app_package": "com.oppo.gestureservice",
+            "app_dir": "/system/priv-app/OppoGestureEngine/OppoGestureEngine.apk"
+        },
+        "app-145": {
+            "app_name": "Pesan Sistem",
+            "app_package": "com.coloros.mcs"
+        },
+        "app-266": {
+            "app_name": "PixelLab",
+            "app_package": "com.imaginstudio.imagetools.pixellab"
+        },
+        "app-144": {
+            "app_name": "Wallpaper",
+            "app_package": "com.coloros.wallpapers",
+            "app_dir": "/system/app/Wallpapers/Wallpapers.apk"
+        },
+        "app-265": {
+            "app_name": "Favoritku",
+            "app_package": "com.coloros.favorite"
+        },
+        "app-21": {
+            "app_name": "Android Shared Library",
+            "app_package": "com.google.android.ext.shared",
+            "app_dir": "/system/priv-app/GoogleExtShared/GoogleExtShared.apk"
+        },
+        "app-147": {
+            "app_name": "Android Shared Library",
+            "app_package": "android.ext.shared",
+            "app_dir": "/system/app/ExtShared/ExtShared.apk"
+        },
+        "app-268": {
+            "app_name": "ColorOSPromeSMS",
+            "app_package": "com.coloros.prome.smsservice",
+            "app_dir": "/system/app/PromeSms/PromeSms.apk"
+        },
+        "app-22": {
+            "app_name": "Shazam",
+            "app_package": "com.shazam.android"
+        },
+        "app-146": {
+            "app_name": "Layn pngktn sistem",
+            "app_package": "com.coloros.sau",
+            "app_dir": "/system/app/SystemAppUpdateService/SystemAppUpdateService.apk"
+        },
+        "app-267": {
+            "app_name": "Bluetooth",
+            "app_package": "com.android.bluetooth",
+            "app_dir": "/system/app/Bluetooth/Bluetooth.apk"
+        },
+        "app-149": {
+            "app_name": "One Time Init",
+            "app_package": "com.android.onetimeinitializer",
+            "app_dir": "/system/priv-app/OneTimeInitializer/OneTimeInitializer.apk"
+        },
+        "app-20": {
+            "app_name": "Google One Time Init",
+            "app_package": "com.google.android.onetimeinitializer",
+            "app_dir": "/system/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk"
+        },
+        "app-148": {
+            "app_name": "Brankas Pribadi",
+            "app_package": "com.coloros.encryption",
+            "app_dir": "/system/app/FileEncryption/FileEncryption.apk"
+        },
+        "app-269": {
+            "app_name": "com.qualcomm.timeservice",
+            "app_package": "com.qualcomm.timeservice",
+            "app_dir": "/vendor/app/TimeService/TimeService.apk"
+        },
+        "app-25": {
+            "app_name": "com.android.wallpapercropper",
+            "app_package": "com.android.wallpapercropper",
+            "app_dir": "/system/priv-app/WallpaperCropper/WallpaperCropper.apk"
+        },
+        "app-26": {
+            "app_name": "com.quicinc.cne.CNEService.CNEServiceApp",
+            "app_package": "com.quicinc.cne.CNEService",
+            "app_dir": "/system/priv-app/CNEService/CNEService.apk"
+        },
+        "app-23": {
+            "app_name": "WifiRxSensTest",
+            "app_package": "com.wifi.rxsenstest",
+            "app_dir": "/system/app/WifiRxSensTest/WifiRxSensTest.apk"
+        },
+        "app-24": {
+            "app_name": "MBN Test",
+            "app_package": "com.qualcomm.qti.modemtestmode",
+            "app_dir": "/system/app/ModemTestMode/ModemTestMode.apk"
+        },
+        "app-29": {
+            "app_name": "Terjemahkan",
+            "app_package": "com.coloros.translate",
+            "app_dir": "/system/app/OppoTranslation/OppoTranslation.apk"
+        },
+        "app-150": {
+            "app_name": "Pengelolaan panggilan",
+            "app_package": "com.android.server.telecom",
+            "app_dir": "/system/priv-app/Telecom/Telecom.apk"
+        },
+        "app-271": {
+            "app_name": "com.qualcomm.embms",
+            "app_package": "com.qualcomm.embms",
+            "app_dir": "/system/app/embms/embms.apk"
+        },
+        "app-270": {
+            "app_name": "Pesta Musik",
+            "app_package": "com.coloros.musiclink",
+            "app_dir": "/system/priv-app/MusicLink/MusicLink.apk"
+        },
+        "app-27": {
+            "app_name": "com.qualcomm.qti.autoregistration",
+            "app_package": "com.qualcomm.qti.autoregistration",
+            "app_dir": "/system/app/AutoRegistration/AutoRegistration.apk"
+        },
+        "app-152": {
+            "app_name": "Mesin yang beragam",
+            "app_package": "com.color.uiengine",
+            "app_dir": "/system/app/ColorUIEngine/ColorUIEngine.apk"
+        },
+        "app-273": {
+            "app_name": "Mnjmn prss permanen",
+            "app_package": "com.coloros.appmanager",
+            "app_dir": "/system/app/ColorAppServicesManager/ColorAppServicesManager.apk"
+        },
+        "app-28": {
+            "app_name": "Game Space",
+            "app_package": "com.coloros.gamespace",
+            "app_dir": "/system/app/GameSpace/GameSpace.apk"
+        },
+        "app-151": {
+            "app_name": "Sinkronisasi Google Kontak",
+            "app_package": "com.google.android.syncadapters.contacts",
+            "app_dir": "/system/priv-app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk"
+        },
+        "app-272": {
+            "app_name": "Penyimpanan Kenalan",
+            "app_package": "com.android.providers.contacts",
+            "app_dir": "/system/priv-app/ContactsProvider/ContactsProvider.apk"
+        },
+        "app-118": {
+            "app_name": "Kelola pemberitahuan",
+            "app_package": "com.coloros.notificationmanager",
+            "app_dir": "/system/app/NotificationCenter/NotificationCenter.apk"
+        },
+        "app-239": {
+            "app_name": "DANA",
+            "app_package": "id.dana"
+        },
+        "app-117": {
+            "app_name": "Print Spooler",
+            "app_package": "com.android.printspooler",
+            "app_dir": "/system/app/PrintSpooler/PrintSpooler.apk"
+        },
+        "app-238": {
+            "app_name": "Kamus Pengguna",
+            "app_package": "com.android.providers.userdictionary",
+            "app_dir": "/system/app/UserDictionaryProvider/UserDictionaryProvider.apk"
+        },
+        "app-119": {
+            "app_name": "Telepon",
+            "app_package": "com.android.incallui",
+            "app_dir": "/system/app/InCallUI/InCallUI.apk"
+        },
+        "app-110": {
+            "app_name": "Dark",
+            "app_package": "com.android.systemui.theme.dark",
+            "app_dir": "/vendor/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk"
+        },
+        "app-231": {
+            "app_name": "Klik untuk Menjalankan",
+            "app_package": "com.nearme.instant.platform",
+            "app_dir": "/system/app/Instant/Instant.apk"
+        },
+        "app-230": {
+            "app_name": "Breeno Pindai",
+            "app_package": "com.coloros.ocrscanner"
+        },
+        "app-112": {
+            "app_name": "SecureExtAuthService",
+            "app_package": "com.qualcomm.qti.auth.secureextauthservice",
+            "app_dir": "/system/app/SecureExtAuthService/SecureExtAuthService.apk"
+        },
+        "app-233": {
+            "app_name": "Layanan Ponsel",
+            "app_package": "com.android.phone",
+            "app_dir": "/system/priv-app/TeleService/TeleService.apk"
+        },
+        "app-111": {
+            "app_name": "myIM3",
+            "app_package": "com.pure.indosat.care"
+        },
+        "app-232": {
+            "app_name": "Perekam",
+            "app_package": "com.coloros.soundrecorder",
+            "app_dir": "/system/priv-app/NewSoundRecorder/NewSoundRecorder.apk"
+        },
+        "app-114": {
+            "app_name": "Setelan Penyimpanan",
+            "app_package": "com.android.providers.settings",
+            "app_dir": "/system/priv-app/SettingsProvider/SettingsProvider.apk"
+        },
+        "app-235": {
+            "app_name": "com.android.wallpaperbackup",
+            "app_package": "com.android.wallpaperbackup",
+            "app_dir": "/system/app/WallpaperBackup/WallpaperBackup.apk"
+        },
+        "app-113": {
+            "app_name": "com.qualcomm.qcrilmsgtunnel",
+            "app_package": "com.qualcomm.qcrilmsgtunnel",
+            "app_dir": "/system/priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk"
+        },
+        "app-234": {
+            "app_name": "Kerangka",
+            "app_package": "com.android.shell",
+            "app_dir": "/system/priv-app/Shell/Shell.apk"
+        },
+        "app-116": {
+            "app_name": "Meta Services",
+            "app_package": "com.facebook.services"
+        },
+        "app-237": {
+            "app_name": "OcrService",
+            "app_package": "com.coloros.ocrservice",
+            "app_dir": "/system/app/OcrService/OcrService.apk"
+        },
+        "app-115": {
+            "app_name": "com.android.sharedstoragebackup",
+            "app_package": "com.android.sharedstoragebackup",
+            "app_dir": "/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk"
+        },
+        "app-236": {
+            "app_name": "Simpan Nomor Terblokir",
+            "app_package": "com.android.providers.blockednumber",
+            "app_dir": "/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk"
+        },
+        "app-240": {
+            "app_name": "Shopee",
+            "app_package": "com.shopee.id"
+        },
+        "app-129": {
+            "app_name": "Layanan Cetak Default",
+            "app_package": "com.android.bips",
+            "app_dir": "/system/app/BuiltInPrintService/BuiltInPrintService.apk"
+        },
+        "app-128": {
+            "app_name": "TranslationService",
+            "app_package": "com.coloros.translate.engine",
+            "app_dir": "/system/app/OppoTranslationService/OppoTranslationService.apk"
+        },
+        "app-249": {
+            "app_name": "Sistem UI",
+            "app_package": "com.android.systemui",
+            "app_dir": "/system/priv-app/SystemUI/SystemUI.apk"
+        },
+        "app-121": {
+            "app_name": "FingerprintSensorTest",
+            "app_package": "com.oppo.fingerprints.fingerprintsensortest",
+            "app_dir": "/system/app/ImageTool/ImageTool.apk"
+        },
+        "app-242": {
+            "app_name": "Telusuri",
+            "app_package": "com.oppo.quicksearchbox",
+            "app_dir": "/system/priv-app/GlobalSearch/GlobalSearch.apk"
+        },
+        "app-120": {
+            "app_name": "Theme Store",
+            "app_package": "com.nearme.themespace",
+            "app_dir": "/system/app/KeKeThemeSpace/KeKeThemeSpace.apk"
+        },
+        "app-241": {
+            "app_name": "BlackMart",
+            "app_package": "com.velociraptor.raptor"
+        },
+        "app-123": {
+            "app_name": "DeliverServer",
+            "app_package": "com.oppo.instant.local.service",
+            "app_dir": "/system/app/InstantLocalService/InstantLocalService.apk"
+        },
+        "app-244": {
+            "app_name": "CamScanner",
+            "app_package": "com.intsig.camscanner"
+        },
+        "app-122": {
+            "app_name": "OppoDiracService",
+            "app_package": "com.oppo.multimedia.dirac",
+            "app_dir": "/system/app/OppoDiracService/OppoDiracService.apk"
+        },
+        "app-243": {
+            "app_name": "QMMI",
+            "app_package": "com.qualcomm.qti.qmmi",
+            "app_dir": "/vendor/app/Qmmi/Qmmi.apk"
+        },
+        "app-125": {
+            "app_name": "Berkendara Cerdas",
+            "app_package": "com.coloros.smartdrive",
+            "app_dir": "/system/priv-app/SmartDrive/SmartDrive.apk"
+        },
+        "app-246": {
+            "app_name": "Fused Location",
+            "app_package": "com.android.location.fused",
+            "app_dir": "/system/priv-app/FusedLocation/FusedLocation.apk"
+        },
+        "app-124": {
+            "app_name": "Perangkat Masukan",
+            "app_package": "com.android.inputdevices",
+            "app_dir": "/system/priv-app/InputDevices/InputDevices.apk"
+        },
+        "app-245": {
+            "app_name": "ColorEyeProtect",
+            "app_package": "com.color.eyeprotect",
+            "app_dir": "/system/app/ColorEyeProtect/ColorEyeProtect.apk"
+        },
+        "app-127": {
+            "app_name": "SecureSampleAuthService",
+            "app_package": "com.qualcomm.qti.auth.securesampleauthservice",
+            "app_dir": "/system/app/SecureSampleAuthService/SecureSampleAuthService.apk"
+        },
+        "app-248": {
+            "app_name": "Layanan Suara",
+            "app_package": "com.coloros.speechassist.engine",
+            "app_dir": "/system/priv-app/OppoSpeechService/OppoSpeechService.apk"
+        },
+        "app-126": {
+            "app_name": "anWriter free",
+            "app_package": "com.ansm.anwriter"
+        },
+        "app-247": {
+            "app_name": "XLS File Viewer",
+            "app_package": "com.xlsx.file.reader.xlsxfileviewer"
+        },
+        "app-130": {
+            "app_name": "com.qti.dpmserviceapp",
+            "app_package": "com.qti.dpmserviceapp",
+            "app_dir": "/system/priv-app/dpmserviceapp/dpmserviceapp.apk"
+        },
+        "app-251": {
+            "app_name": "Bluetooth MIDI Service",
+            "app_package": "com.android.bluetoothmidiservice",
+            "app_dir": "/system/app/BluetoothMidiService/BluetoothMidiService.apk"
+        },
+        "app-250": {
+            "app_name": "File Info",
+            "app_package": "com.coloros.providers.fileinfo",
+            "app_dir": "/system/app/FileInfoProvider/FileInfoProvider.apk"
+        },
+        "app-217": {
+            "app_name": "Pembayaran Aman",
+            "app_package": "com.nearme.atlas"
+        },
+        "app-216": {
+            "app_name": "RfTest",
+            "app_package": "com.oppo.wifirf",
+            "app_dir": "/system/app/RfTestApk/RfTestApk.apk"
+        },
+        "app-219": {
+            "app_name": "Screenshot",
+            "app_package": "com.coloros.screenshot",
+            "app_dir": "/system/app/ColorScreenshot/ColorScreenshot.apk"
+        },
+        "app-218": {
+            "app_name": "Layn Gesture_Motion",
+            "app_package": "com.coloros.exserviceui",
+            "app_dir": "/system/app/OppoExServiceUI/OppoExServiceUI.apk"
+        },
+        "app-211": {
+            "app_name": "com.qualcomm.qti.ims",
+            "app_package": "com.qualcomm.qti.ims",
+            "app_dir": "/system/app/imssettings/imssettings.apk"
+        },
+        "app-210": {
+            "app_name": "Pengaturan",
+            "app_package": "com.android.settings",
+            "app_dir": "/system/priv-app/Settings/Settings.apk"
+        },
+        "app-213": {
+            "app_name": "com.qualcomm.qti.uim",
+            "app_package": "com.qualcomm.qti.uim",
+            "app_dir": "/system/app/remotesimlockservice/remotesimlockservice.apk"
+        },
+        "app-212": {
+            "app_name": "com.qualcomm.qti.lpa",
+            "app_package": "com.qualcomm.qti.lpa",
+            "app_dir": "/system/app/uimlpaservice/uimlpaservice.apk"
+        },
+        "app-215": {
+            "app_name": "EngineerMode",
+            "app_package": "com.oppo.engineermode",
+            "app_dir": "/system/app/OppoEngineerMode/OppoEngineerMode.apk"
+        },
+        "app-214": {
+            "app_name": "Jago",
+            "app_package": "com.jago.digitalBanking"
+        },
+        "app-107": {
+            "app_name": "Device configuration",
+            "app_package": "android.autoinstalls.config.oppo",
+            "app_dir": "/system/priv-app/PlayAutoInstallConfig/PlayAutoInstallConfig.apk"
+        },
+        "app-228": {
+            "app_name": "VpnDialogs",
+            "app_package": "com.android.vpndialogs",
+            "app_dir": "/system/priv-app/VpnDialogs/VpnDialogs.apk"
+        },
+        "app-106": {
+            "app_name": "com.nearme.deamon",
+            "app_package": "com.nearme.deamon",
+            "app_dir": "/system/app/Deamon/Deamon.apk"
+        },
+        "app-227": {
+            "app_name": "Manajer File",
+            "app_package": "com.coloros.filemanager",
+            "app_dir": "/system/app/FileManager/FileManager.apk"
+        },
+        "app-109": {
+            "app_name": "DecryptAssistant",
+            "app_package": "com.oppo.decrypt",
+            "app_dir": "/system/app/DecryptAssistant/DecryptAssistant.apk"
+        },
+        "app-108": {
+            "app_name": "Meet",
+            "app_package": "com.google.android.apps.tachyon"
+        },
+        "app-229": {
+            "app_name": "Klonkan Apli",
+            "app_package": "com.coloros.oppomultiapp",
+            "app_dir": "/system/app/OppoMultiApp/OppoMultiApp.apk"
+        },
+        "app-220": {
+            "app_name": "BTtestmode",
+            "app_package": "com.oppo.bttestmode",
+            "app_dir": "/system/app/BTtestmode/BTtestmode.apk"
+        },
+        "app-101": {
+            "app_name": "Pinterest",
+            "app_package": "com.pinterest"
+        },
+        "app-222": {
+            "app_name": "Musik",
+            "app_package": "com.oppo.music",
+            "app_dir": "/system/priv-app/OppoMusic/OppoMusic.apk"
+        },
+        "app-100": {
+            "app_name": "Pelayanan DLNA",
+            "app_package": "com.android.dlna.service",
+            "app_dir": "/system/app/DlnaService/DlnaService.apk"
+        },
+        "app-221": {
+            "app_name": "LocationServices",
+            "app_package": "com.qualcomm.location",
+            "app_dir": "/system/priv-app/com.qualcomm.location/com.qualcomm.location.apk"
+        },
+        "app-103": {
+            "app_name": "org.codeaurora.ims",
+            "app_package": "org.codeaurora.ims",
+            "app_dir": "/system/app/ims/ims.apk"
+        },
+        "app-224": {
+            "app_name": "com.android.cts.ctsshim",
+            "app_package": "com.android.cts.ctsshim",
+            "app_dir": "/system/app/CtsShimPrebuilt/CtsShimPrebuilt.apk"
+        },
+        "app-102": {
+            "app_name": "Kartu Jaminan Elektronik",
+            "app_package": "com.coloros.activation",
+            "app_dir": "/system/app/OppoPhoneActivation/OppoPhoneActivation.apk"
+        },
+        "app-223": {
+            "app_name": "CriticalLogService",
+            "app_package": "com.oppo.criticallog",
+            "app_dir": "/system/app/OppoCriticalLogService/OppoCriticalLogService.apk"
+        },
+        "app-105": {
+            "app_name": "Gmail",
+            "app_package": "com.google.android.gm"
+        },
+        "app-226": {
+            "app_name": "(Pemutar) Video",
+            "app_package": "com.coloros.video",
+            "app_dir": "/system/priv-app/VideoGallery/VideoGallery.apk"
+        },
+        "app-104": {
+            "app_name": "Intent Filter Verification Service",
+            "app_package": "com.android.statementservice",
+            "app_dir": "/system/priv-app/StatementService/StatementService.apk"
+        },
+        "app-225": {
+            "app_name": "OPPO Cloud",
+            "app_package": "com.coloros.cloud",
+            "app_dir": "/system/app/CloudService/CloudService.apk"
+        },
+        "app-72": {
+            "app_name": "Gerakan",
+            "app_package": "com.coloros.gesture",
+            "app_dir": "/system/app/OppoGestureUI/OppoGestureUI.apk"
+        },
+        "app-73": {
+            "app_name": "Pemasang Sertifikat",
+            "app_package": "com.android.certinstaller",
+            "app_dir": "/system/app/CertInstaller/CertInstaller.apk"
+        },
+        "app-70": {
+            "app_name": "Content Adaptive Backlight Settings",
+            "app_package": "com.qualcomm.cabl",
+            "app_dir": "/vendor/app/CABLService/CABLService.apk"
+        },
+        "app-71": {
+            "app_name": "OPPO Share",
+            "app_package": "com.coloros.oshare",
+            "app_dir": "/system/app/OShare/OShare.apk"
+        },
+        "app-76": {
+            "app_name": "Image to PDF Converter",
+            "app_package": "com.readpdf.pdfreader.pdfviewer"
+        },
+        "app-77": {
+            "app_name": "WAPI certificate",
+            "app_package": "com.wapi.wapicertmanage",
+            "app_dir": "/system/app/WapiCertManage/WapiCertManage.apk"
+        },
+        "app-74": {
+            "app_name": "com.android.carrierconfig",
+            "app_package": "com.android.carrierconfig",
+            "app_dir": "/system/priv-app/CarrierConfig/CarrierConfig.apk"
+        },
+        "app-75": {
+            "app_name": "org.codeaurora.bluetooth",
+            "app_package": "org.codeaurora.bluetooth",
+            "app_dir": "/system/app/BluetoothExt/BluetoothExt.apk"
+        },
+        "app-78": {
+            "app_name": "com.qti.qualcomm.datastatusnotification",
+            "app_package": "com.qti.qualcomm.datastatusnotification",
+            "app_dir": "/system/app/datastatusnotification/datastatusnotification.apk"
+        },
+        "app-79": {
+            "app_name": "Smart Volume",
+            "app_package": "com.oppo.smartvolume",
+            "app_dir": "/system/app/SmartVolumeService/SmartVolumeService.apk"
+        },
+        "app-7": {
+            "app_name": "SampleExtAuthService",
+            "app_package": "com.qualcomm.qti.auth.sampleextauthservice",
+            "app_dir": "/system/app/SampleExtAuthService/SampleExtAuthService.apk"
+        },
+        "app-206": {
+            "app_name": "Deteksi Keamanan Wi-Fi",
+            "app_package": "com.coloros.wifisecuredetect",
+            "app_dir": "/system/app/OppoWifiSecureDetect/OppoWifiSecureDetect.apk"
+        },
+        "app-8": {
+            "app_name": "Android Services Library",
+            "app_package": "com.google.android.ext.services",
+            "app_dir": "/system/priv-app/GoogleExtServices/GoogleExtServices.apk"
+        },
+        "app-205": {
+            "app_name": "CarrierAccessCacheService",
+            "app_package": "com.qualcomm.qti.accesscache",
+            "app_dir": "/system/app/CarrierCacheService/CarrierCacheService.apk"
+        },
+        "app-9": {
+            "app_name": "Area Nomor",
+            "app_package": "com.coloros.phonenoareainquire",
+            "app_dir": "/system/app/PhoneNOAreaInquireProvider/PhoneNOAreaInquireProvider.apk"
+        },
+        "app-208": {
+            "app_name": "Sentuh Cerdas",
+            "app_package": "com.coloros.directui",
+            "app_dir": "/system/app/ColorDirectUI/ColorDirectUI.apk"
+        },
+        "app-207": {
+            "app_name": "Pengelola Penyimpanan",
+            "app_package": "com.android.storagemanager",
+            "app_dir": "/system/priv-app/StorageManager/StorageManager.apk"
+        },
+        "app-80": {
+            "app_name": "Daftarkan saat penyalaan",
+            "app_package": "com.coloros.bootreg",
+            "app_dir": "/system/app/OppoBootReg/OppoBootReg.apk"
+        },
+        "app-209": {
+            "app_name": "com.oppo.qualityprotect",
+            "app_package": "com.oppo.qualityprotect",
+            "app_dir": "/system/app/OppoQualityProtect/OppoQualityProtect.apk"
+        },
+        "app-83": {
+            "app_name": "com.qualcomm.qti.callfeaturessetting",
+            "app_package": "com.qualcomm.qti.callfeaturessetting",
+            "app_dir": "/system/app/CallFeaturesSetting/CallFeaturesSetting.apk"
+        },
+        "app-84": {
+            "app_name": "Wfd Service",
+            "app_package": "com.qualcomm.wfd.service",
+            "app_dir": "/system/app/WfdService/WfdService.apk"
+        },
+        "app-1": {
+            "app_name": "Clone Phone",
+            "app_package": "com.coloros.backuprestore"
+        },
+        "app-81": {
+            "app_name": "Sistem Android",
+            "app_package": "android",
+            "app_dir": "/system/framework/framework-res.apk"
+        },
+        "app-200": {
+            "app_name": "LogKit",
+            "app_package": "com.oppo.logkit",
+            "app_dir": "/system/app/OppoLogKit/OppoLogKit.apk"
+        },
+        "app-2": {
+            "app_name": "Al Quran Lite",
+            "app_package": "com.alquran.lengkaplite"
+        },
+        "app-82": {
+            "app_name": "Kontak",
+            "app_package": "com.android.contacts",
+            "app_dir": "/system/priv-app/Contacts/Contacts.apk"
+        },
+        "app-3": {
+            "app_name": "WhatsApp Business",
+            "app_package": "com.whatsapp.w4b"
+        },
+        "app-87": {
+            "app_name": "Identifikasi Nmr Tak Dikenal",
+            "app_package": "com.ted.number",
+            "app_dir": "/system/priv-app/NumberRecognition/NumberRecognition.apk"
+        },
+        "app-202": {
+            "app_name": "Meta App Installer",
+            "app_package": "com.facebook.system"
+        },
+        "app-4": {
+            "app_name": "com.android.cts.priv.ctsshim",
+            "app_package": "com.android.cts.priv.ctsshim",
+            "app_dir": "/system/priv-app/CtsShimPrivPrebuilt/CtsShimPrivPrebuilt.apk"
+        },
+        "app-88": {
+            "app_name": "XLIVE18",
+            "app_package": "com.xlive18"
+        },
+        "app-201": {
+            "app_name": "Prlindngn Pmbayarn",
+            "app_package": "com.coloros.securepay",
+            "app_dir": "/system/app/SecurePay/SecurePay.apk"
+        },
+        "app-5": {
+            "app_name": "OppoLogCopy",
+            "app_package": "com.oppo.logkitsdservice",
+            "app_dir": "/system/app/LogKitSdService/LogKitSdService.apk"
+        },
+        "app-85": {
+            "app_name": "Oppo WebView",
+            "app_package": "com.oppo.webview",
+            "app_dir": "/system/app/WebViewOPPO/WebViewOPPO.apk"
+        },
+        "app-204": {
+            "app_name": "Layanan Transfer Backup Google",
+            "app_package": "com.google.android.backuptransport",
+            "app_dir": "/system/priv-app/GoogleBackupTransport/GoogleBackupTransport.apk"
+        },
+        "app-6": {
+            "app_name": "YouTube",
+            "app_package": "com.google.android.youtube"
+        },
+        "app-86": {
+            "app_name": "Device Info",
+            "app_package": "com.qti.qualcomm.deviceinfo",
+            "app_dir": "/system/app/DeviceInfo/DeviceInfo.apk"
+        },
+        "app-203": {
+            "app_name": "Layn Find My Phone",
+            "app_package": "com.coloros.findmyphone",
+            "app_dir": "/system/priv-app/FindMyPhone/FindMyPhone.apk"
+        },
+        "app-89": {
+            "app_name": "Baterai",
+            "app_package": "com.coloros.oppoguardelf",
+            "app_dir": "/system/app/OppoGuardElf/OppoGuardElf.apk"
+        },
+        "app-90": {
+            "app_name": "Pesan",
+            "app_package": "com.android.mms",
+            "app_dir": "/system/priv-app/Mms/Mms.apk"
+        },
+        "app-91": {
+            "app_name": "Host MTP",
+            "app_package": "com.android.mtp",
+            "app_dir": "/system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk"
+        },
+        "app-94": {
+            "app_name": "com.android.backupconfirm",
+            "app_package": "com.android.backupconfirm",
+            "app_dir": "/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk"
+        },
+        "app-95": {
+            "app_name": "Dirac Control Service",
+            "app_package": "se.dirac.acs",
+            "app_dir": "/system/priv-app/DiracAudioControlService/DiracAudioControlService.apk"
+        },
+        "app-92": {
+            "app_name": "Kit alat SIM",
+            "app_package": "com.android.stk",
+            "app_dir": "/system/app/Stk/Stk.apk"
+        },
+        "app-93": {
+            "app_name": "Background Eraser",
+            "app_package": "com.handycloset.android.eraser"
+        },
+        "app-98": {
+            "app_name": "Instagram",
+            "app_package": "com.instagram.android"
+        },
+        "app-99": {
+            "app_name": "Smart Assistant",
+            "app_package": "com.coloros.assistantscreen",
+            "app_dir": "/system/app/AssistantScreen/AssistantScreen.apk"
+        },
+        "app-96": {
+            "app_name": "DropboxChmodService",
+            "app_package": "com.dropboxchmod",
+            "app_dir": "/system/app/OppoDropboxChmodService/OppoDropboxChmodService.apk"
+        },
+        "app-97": {
+            "app_name": "Yahoo Mail",
+            "app_package": "com.yahoo.mobile.client.android.mail"
+        },
+        "app-198": {
+            "app_name": "Pemilih Wallpaper Dinamis",
+            "app_package": "com.android.wallpaper.livepicker",
+            "app_dir": "/system/app/WallpaperChooser/WallpaperChooser.apk"
+        },
+        "app-197": {
+            "app_name": "com.android.smspush",
+            "app_package": "com.android.smspush",
+            "app_dir": "/system/app/WAPPushManager/WAPPushManager.apk"
+        },
+        "app-199": {
+            "app_name": "Lite",
+            "app_package": "com.facebook.lite"
+        },
+        "app-32": {
+            "app_name": "SIM & Data Seluler",
+            "app_package": "com.coloros.simsettings",
+            "app_dir": "/system/priv-app/OppoSimSettings/OppoSimSettings.apk"
+        },
+        "app-33": {
+            "app_name": "com.oppo.partnerbrowsercustomizations",
+            "app_package": "com.oppo.partnerbrowsercustomizations",
+            "app_dir": "/system/priv-app/ChromeCustomizations/ChromeCustomizations.apk"
+        },
+        "app-30": {
+            "app_name": "SmartcardService",
+            "app_package": "org.simalliance.openmobileapi.service",
+            "app_dir": "/vendor/app/SmartcardService/SmartcardService.apk"
+        },
+        "app-31": {
+            "app_name": "File",
+            "app_package": "com.android.documentsui",
+            "app_dir": "/system/priv-app/DocumentsUI/DocumentsUI.apk"
+        },
+        "app-36": {
+            "app_name": "com.qualcomm.uimremoteclient",
+            "app_package": "com.qualcomm.uimremoteclient",
+            "app_dir": "/system/app/uimremoteclient/uimremoteclient.apk"
+        },
+        "app-37": {
+            "app_name": "Penampil HTML",
+            "app_package": "com.android.htmlviewer",
+            "app_dir": "/system/app/HTMLViewer/HTMLViewer.apk"
+        },
+        "app-34": {
+            "app_name": "Sogou Input Method Customized Version",
+            "app_package": "com.sohu.inputmethod.sogouoem",
+            "app_dir": "/system/app/SogouIME/SogouIME.apk"
+        },
+        "app-35": {
+            "app_name": "Penyimpanan Eksternal",
+            "app_package": "com.android.externalstorage",
+            "app_dir": "/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk"
+        },
+        "app-38": {
+            "app_name": "SVI Settings",
+            "app_package": "com.qualcomm.svi",
+            "app_dir": "/vendor/app/SVIService/SVIService.apk"
+        },
+        "app-39": {
+            "app_name": "Deteksi Masalah Umum",
+            "app_package": "com.coloros.healthcheck",
+            "app_dir": "/system/app/HealthCheck/HealthCheck.apk"
+        },
+        "app-40": {
+            "app_name": "WhatsApp",
+            "app_package": "com.whatsapp"
+        },
+        "app-43": {
+            "app_name": "Companion Device Manager",
+            "app_package": "com.android.companiondevicemanager",
+            "app_dir": "/system/app/CompanionDeviceManager/CompanionDeviceManager.apk"
+        },
+        "app-44": {
+            "app_name": "语音设置",
+            "app_package": "com.iflytek.speechsuite",
+            "app_dir": "/system/app/IFlySpeechService/IFlySpeechService.apk"
+        },
+        "app-41": {
+            "app_name": "Picsart",
+            "app_package": "com.picsart.studio"
+        },
+        "app-42": {
+            "app_name": "RCSService",
+            "app_package": "com.qualcomm.qti.uceShimService",
+            "app_dir": "/system/app/uceShimService/uceShimService.apk"
+        },
+        "app-47": {
+            "app_name": "Pengelola pengunduhan",
+            "app_package": "com.android.providers.downloads",
+            "app_dir": "/system/priv-app/DownloadProvider/DownloadProvider.apk"
+        },
+        "app-48": {
+            "app_name": "SampleAuthenticatorService",
+            "app_package": "com.qualcomm.qti.auth.sampleauthenticatorservice",
+            "app_dir": "/system/app/SampleAuthenticatorService/SampleAuthenticatorService.apk"
+        },
+        "app-45": {
+            "app_name": "Pelayanan cuaca",
+            "app_package": "com.coloros.weather.service",
+            "app_dir": "/system/app/OppoWeatherService/OppoWeatherService.apk"
+        },
+        "app-46": {
+            "app_name": "Layanan informasi",
+            "app_package": "com.android.mms.service",
+            "app_dir": "/system/priv-app/MmsService/MmsService.apk"
+        },
+        "app-49": {
+            "app_name": "Alight Motion",
+            "app_package": "com.alightcreative.motion"
+        },
+        "app-50": {
+            "app_name": "Manajemen Pengunduhan",
+            "app_package": "com.coloros.providers.downloads.ui",
+            "app_dir": "/system/app/DownloaderCenterUI/DownloaderCenterUI.apk"
+        },
+        "app-176": {
+            "app_name": "ColorOSProme",
+            "app_package": "com.coloros.prome.service",
+            "app_dir": "/system/app/Prome/Prome.apk"
+        },
+        "app-51": {
+            "app_name": "Bersihkan otomatis",
+            "app_package": "com.coloros.athena",
+            "app_dir": "/system/app/Athena/Athena.apk"
+        },
+        "app-175": {
+            "app_name": "ANT HAL Service",
+            "app_package": "com.dsi.ant.server",
+            "app_dir": "/system/app/AntHalService/AntHalService.apk"
+        },
+        "app-178": {
+            "app_name": "Jam (widget)",
+            "app_package": "com.coloros.widget.smallweather",
+            "app_dir": "/system/app/OppoSmallWeatherWidget/OppoSmallWeatherWidget.apk"
+        },
+        "app-177": {
+            "app_name": "ProxyHandler",
+            "app_package": "com.android.proxyhandler",
+            "app_dir": "/system/priv-app/ProxyHandler/ProxyHandler.apk"
+        },
+        "app-54": {
+            "app_name": "Memori Daftar Hitam Kontak",
+            "app_package": "com.coloros.blacklist",
+            "app_dir": "/system/priv-app/BlackList/BlackList.apk"
+        },
+        "app-55": {
+            "app_name": "Discord",
+            "app_package": "com.discord"
+        },
+        "app-179": {
+            "app_name": "Senter",
+            "app_package": "com.coloros.flashlight",
+            "app_dir": "/system/app/OppoFlashLight/OppoFlashLight.apk"
+        },
+        "app-52": {
+            "app_name": "ZArchiver",
+            "app_package": "ru.zdevs.zarchiver"
+        },
+        "app-53": {
+            "app_name": "Daftar Hitam/Daftar Putih Kontak",
+            "app_package": "com.coloros.blacklistapp",
+            "app_dir": "/system/priv-app/BlackListApp/BlackListApp.apk"
+        },
+        "app-58": {
+            "app_name": "com.qualcomm.qti.telephonyservice",
+            "app_package": "com.qualcomm.qti.telephonyservice",
+            "app_dir": "/system/app/QtiTelephonyService/QtiTelephonyService.apk"
+        },
+        "app-59": {
+            "app_name": "Peramban",
+            "app_package": "com.android.browser",
+            "app_dir": "/system/priv-app/Browser/Browser.apk"
+        },
+        "app-56": {
+            "app_name": "AhMyth",
+            "app_package": "ahmyth.mine.king.ahmyth"
+        },
+        "app-181": {
+            "app_name": "Scene Intelligence",
+            "app_package": "com.coloros.sceneservice",
+            "app_dir": "/system/priv-app/SceneService/SceneService.apk"
+        },
+        "app-57": {
+            "app_name": "MultimediaLocalService",
+            "app_package": "com.oppo.localservice",
+            "app_dir": "/system/app/MultimediaLocalService/MultimediaLocalService.apk"
+        },
+        "app-180": {
+            "app_name": "CarrierLoadService",
+            "app_package": "com.qualcomm.qti.loadcarrier",
+            "app_dir": "/system/app/CarrierLoadService/CarrierLoadService.apk"
+        },
+        "app-183": {
+            "app_name": "Agen Masukan Market",
+            "app_package": "com.google.android.feedback",
+            "app_dir": "/system/priv-app/GoogleFeedback/GoogleFeedback.apk"
+        },
+        "app-182": {
+            "app_name": "ExSupport",
+            "app_package": "com.coloros.exsupport",
+            "app_dir": "/system/app/ExSupport/ExSupport.apk"
+        },
+        "app-185": {
+            "app_name": "Foto",
+            "app_package": "com.google.android.apps.photos"
+        },
+        "app-184": {
+            "app_name": "Print Service Recommendation Service",
+            "app_package": "com.google.android.printservice.recommendation",
+            "app_dir": "/system/priv-app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk"
+        },
+        "app-61": {
+            "app_name": "FidoCryptoService",
+            "app_package": "com.qualcomm.qti.auth.fidocryptoservice",
+            "app_dir": "/system/app/FidoCryptoService/FidoCryptoService.apk"
+        },
+        "app-187": {
+            "app_name": "Penyiapan profil kerja",
+            "app_package": "com.android.managedprovisioning",
+            "app_dir": "/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk"
+        },
+        "app-62": {
+            "app_name": "CapCut",
+            "app_package": "com.lemon.lvoverseas"
+        },
+        "app-186": {
+            "app_name": "Kalender",
+            "app_package": "com.google.android.calendar"
+        },
+        "app-189": {
+            "app_name": "OppoAod",
+            "app_package": "com.oppo.aod",
+            "app_dir": "/system/app/OppoAod/OppoAod.apk"
+        },
+        "app-60": {
+            "app_name": "Telusuri penyedia aplikasi",
+            "app_package": "com.android.providers.applications",
+            "app_dir": "/system/app/ApplicationsProvider/ApplicationsProvider.apk"
+        },
+        "app-188": {
+            "app_name": "Spotify",
+            "app_package": "com.spotify.music"
+        },
+        "app-65": {
+            "app_name": "GoTube",
+            "app_package": "premium.gotube.adblock.utube"
+        },
+        "app-66": {
+            "app_name": "Pembantu Akses Paket",
+            "app_package": "com.android.defcontainer",
+            "app_dir": "/system/priv-app/DefaultContainerService/DefaultContainerService.apk"
+        },
+        "app-63": {
+            "app_name": "WifiBackupRestore",
+            "app_package": "com.coloros.wifibackuprestore",
+            "app_dir": "/system/app/WifiBackupAndRestore/WifiBackupAndRestore.apk"
+        },
+        "app-64": {
+            "app_name": "com.qualcomm.uimremoteserver",
+            "app_package": "com.qualcomm.uimremoteserver",
+            "app_dir": "/system/app/uimremoteserver/uimremoteserver.apk"
+        },
+        "app-69": {
+            "app_name": "PacProcessor",
+            "app_package": "com.android.pacprocessor",
+            "app_dir": "/system/app/PacProcessor/PacProcessor.apk"
+        },
+        "app-190": {
+            "app_name": "Pembaruan P. Lunak",
+            "app_package": "com.oppo.ota",
+            "app_dir": "/system/app/OTA/OTA.apk"
+        },
+        "app-67": {
+            "app_name": "Conference URI Dialer",
+            "app_package": "com.qti.confuridialer",
+            "app_dir": "/system/app/ConfURIDialer/ConfURIDialer.apk"
+        },
+        "app-192": {
+            "app_name": "Kamera",
+            "app_package": "com.oppo.camera",
+            "app_dir": "/system/app/OppoCamera/OppoCamera.apk"
+        },
+        "app-68": {
+            "app_name": "Google Play Store",
+            "app_package": "com.android.vending"
+        },
+        "app-191": {
+            "app_name": "SOS Darurat",
+            "app_package": "com.oppo.sos",
+            "app_dir": "/system/priv-app/SOSHelper/SOSHelper.apk"
+        },
+        "app-194": {
+            "app_name": "Bantuan & Umpan balik",
+            "app_package": "com.coloros.feedback",
+            "app_dir": "/system/app/Feedback/Feedback.apk"
+        },
+        "app-193": {
+            "app_name": "Gojek",
+            "app_package": "com.gojek.app"
+        },
+        "app-196": {
+            "app_name": "by.U",
+            "app_package": "com.byu.id"
+        },
+        "app-195": {
+            "app_name": "Jam",
+            "app_package": "com.coloros.alarmclock",
+            "app_dir": "/system/app/Clock/Clock.apk"
+        }
+    }
+}
